@@ -1,3 +1,4 @@
+" https://github.com/junegunn/vim-plug
 set encoding=utf-8
 scriptencoding utf-8
 " ↑1行目は読み込み時の文字コードの設定
