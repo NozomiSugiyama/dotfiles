@@ -1,0 +1,44 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "terminal.integrated.shell.osx": "/usr/local/bin/zsh",
+    "editor.minimap.enabled": false,
+    "editor.insertSpaces": true,
+    "explorer.openEditors.visible": 0,
+    "files.autoSave": "afterDelay",
+    "git.confirmSync": false,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": false,
+    "terminal.external.linuxExec": "xterm",
+    "workbench.editor.showTabs": true,
+    "workbench.editor.tabCloseButton": "off",
+    "window.zoomLevel": -1,
+    "[javascript]": {
+      "editor.detectIndentation": false,
+      "editor.tabSize": 4
+    },
+    "[go]": {
+      "editor.insertSpaces": false,
+      "editor.formatOnSave": true,
+      "editor.tabSize": 4
+    },
+    "[typescript]": {
+      "editor.detectIndentation": false,
+      "editor.tabSize": 4
+    },
+    "[css]": {
+      "editor.detectIndentation": false,
+      "editor.tabSize": 4
+    },
+    "[json]": {
+      "editor.detectIndentation": false,
+      "editor.tabSize": 2
+    },
+    "git.autofetch": true,
+    "extensions.ignoreRecommendations": true,
+    "breadcrumbs.enabled": false,
+    "editor.renderControlCharacters": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.rendererType": "dom",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "go.goroot": "/usr/local/opt/go/libexec",
+    "go.gopath": "~/Project/golang"
+}
