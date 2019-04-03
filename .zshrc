@@ -27,7 +27,7 @@ eval `dircolors ~/.colorrc`
 eval "$(nodenv init -)"
 
 fpath=(/usr/local/share/zsh-completions $fpath)
-fpath=(~/.zsh/completion $fpath)
+fpath=(~/.zsh/completions $fpath)
 
 export LANG=ja_JP.UTF-8
 export TERM=xterm-256color
